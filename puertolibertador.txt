@@ -1,2 +1,4 @@
 Hola este es un archivo generado desde la web
 por Mauricio hoyos
+se hace la modificacion desde el localhost del iMac
+
